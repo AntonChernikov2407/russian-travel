@@ -8,5 +8,7 @@
 
 Структура файлов и написание классов по методологии БЭМ
 
+Ссылка проект на gh-pages: https://antonchernikov2407.github.io/russian-travel/index.html
+
 Выполнил Черников А.А.
   

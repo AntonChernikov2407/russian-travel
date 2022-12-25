@@ -1,6 +1,6 @@
 .header__lang-link {
-  width: 30px;
-  height: 28px;
+  max-width: 30px;
+  min-height: 28px;
   justify-items: end;
   align-self: flex-end;
   font-size: 24px;
@@ -9,15 +9,13 @@
 }
 
 .header__lang-link:last-of-type {
-  width: 29px;
-  text-decoration: none;
   margin-right: 0;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .header__lang-link {
     max-width: 22px;
-    height: 20px;
+    min-height: 20px;
     font-size: 18px;
     line-height: 1.11;
   }
